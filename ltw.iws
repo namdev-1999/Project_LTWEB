@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ltw:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8669c140-f52c-4b8a-a306-669d3ea2b730" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ltw" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Tsqvb8h4iOl5OQZEXd9gU26LXz" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/imgs/quang-cao" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project Web\ltw\web\WEB-INF\lib" />
+      <recent name="D:\Project Web\ltw\web\css\index" />
+      <recent name="D:\Project Web\ltw\web\css\template" />
+      <recent name="D:\Project Web\ltw\web\imgs\product" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project Web\ltw\web\imgs\quang-cao" />
+      <recent name="D:\Project Web\ltw\web\imgs\blog" />
+      <recent name="D:\Project Web\ltw\web\css\blog" />
+      <recent name="D:\Project Web\ltw\src\vn\nlu\banana\model" />
+      <recent name="D:\Project Web\ltw\web\admin\dist\js" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="vn.nlu.banana.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.TOMCAT">
+    <configuration name="AddComment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.nlu.banana.controller.AddComment" />
+      <module name="ltw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.nlu.banana.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.nlu.banana.model.Ads" />
+      <module name="ltw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.nlu.banana.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListBlog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.nlu.banana.model.ListBlog" />
+      <module name="ltw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.nlu.banana.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.nlu.banana.model.ListOrder" />
+      <module name="ltw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.nlu.banana.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.nlu.banana.model.ListProduct" />
+      <module name="ltw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.nlu.banana.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TOMCAT" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="ltw:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ltw" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ltw" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49491" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ltw:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListOrder" />
+        <item itemvalue="Application.Ads" />
+        <item itemvalue="Application.ListBlog" />
+        <item itemvalue="Application.ListProduct" />
+        <item itemvalue="Application.AddComment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8669c140-f52c-4b8a-a306-669d3ea2b730" name="Default Changelist" comment="" />
+      <created>1574259381929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574259381929</updated>
+      <workItem from="1574259385850" duration="865000" />
+      <workItem from="1574260287021" duration="7480000" />
+      <workItem from="1574384471071" duration="1963000" />
+      <workItem from="1574391881379" duration="45000" />
+      <workItem from="1574510008251" duration="9564000" />
+      <workItem from="1574576032027" duration="2723000" />
+      <workItem from="1574607192026" duration="2403000" />
+      <workItem from="1574642756993" duration="6998000" />
+      <workItem from="1574649822802" duration="21072000" />
+      <workItem from="1574675643272" duration="3180000" />
+      <workItem from="1574754443007" duration="1481000" />
+      <workItem from="1574770922177" duration="4343000" />
+      <workItem from="1574776430681" duration="5692000" />
+      <workItem from="1574945892601" duration="9439000" />
+      <workItem from="1575094611226" duration="12542000" />
+      <workItem from="1575163087103" duration="3489000" />
+      <workItem from="1575211840504" duration="3849000" />
+      <workItem from="1575253821280" duration="8610000" />
+      <workItem from="1575274076385" duration="8900000" />
+      <workItem from="1575296082606" duration="3296000" />
+      <workItem from="1575358281350" duration="14769000" />
+      <workItem from="1575547782514" duration="11449000" />
+      <workItem from="1575612012476" duration="21837000" />
+      <workItem from="1575716821012" duration="572000" />
+      <workItem from="1575717572722" duration="12903000" />
+      <workItem from="1575866458337" duration="16642000" />
+      <workItem from="1575963913567" duration="652000" />
+      <workItem from="1576033125819" duration="21784000" />
+      <workItem from="1576284497000" duration="21035000" />
+      <workItem from="1576306868687" duration="16692000" />
+      <workItem from="1576501055104" duration="10195000" />
+      <workItem from="1576563140564" duration="14731000" />
+      <workItem from="1576579371494" duration="2782000" />
+      <workItem from="1576669975338" duration="13505000" />
+      <workItem from="1576744968083" duration="27107000" />
+      <workItem from="1576776541082" duration="4780000" />
+      <workItem from="1576804536677" duration="6850000" />
+      <workItem from="1576943269307" duration="304000" />
+      <workItem from="1577062540214" duration="3242000" />
+      <workItem from="1577066101029" duration="325000" />
+      <workItem from="1577066466739" duration="28570000" />
+      <workItem from="1577102574603" duration="13922000" />
+      <workItem from="1577251214292" duration="9701000" />
+      <workItem from="1577334717807" duration="14963000" />
+      <workItem from="1577349804053" duration="7531000" />
+      <workItem from="1577512944299" duration="10688000" />
+      <workItem from="1577526972201" duration="8067000" />
+      <workItem from="1577542060275" duration="10568000" />
+      <workItem from="1577633654351" duration="427000" />
+      <workItem from="1577668147398" duration="15413000" />
+      <workItem from="1577685033549" duration="3532000" />
+      <workItem from="1577688630011" duration="11971000" />
+      <workItem from="1577850729130" duration="4591000" />
+      <workItem from="1578042965037" duration="189000" />
+      <workItem from="1578044301958" duration="1009000" />
+      <workItem from="1578381348303" duration="607000" />
+      <workItem from="1578394779409" duration="16751000" />
+      <workItem from="1578446022929" duration="32374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/detail.jsp</url>
+          <line>142</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/vn/nlu/banana/model/ListProduct.java</url>
+          <line>242</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/detail.jsp</url>
+          <line>268</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/admin/index.jsp</url>
+          <line>85</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/footer.jsp</url>
+          <line>43</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/withlist.jsp</url>
+          <line>90</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/profile-user.jsp</url>
+          <line>70</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/vn/nlu/banana/model/ListProduct.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/admin/sale-manage.jsp</url>
+          <line>352</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

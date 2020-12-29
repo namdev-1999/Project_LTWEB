@@ -1,0 +1,99 @@
+.newproduct .product .product__thumb a {
+    width: 100%;
+}
+
+.hotproduct .product .product__thumb a {
+    width: 100%;
+}
+
+.carousel-inner {
+    max-height: 780px;
+}
+
+.d-inline {
+    height: 780px;
+}
+
+.more {
+    color: white;
+    background-color: #007bff;
+!important;
+    border: 1px solid #007bff;
+}
+
+.text-light {
+    font-size: 20px;
+}
+
+.section__title {
+    margin: 0;
+    margin-top: 30px;
+}
+
+.ftco-services .services {
+    display: block;
+    width: 100%;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.ftco-services .services .icon {
+    line-height: 1.3;
+    position: relative;
+    margin: 0 auto;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.ftco-services .services .icon span {
+    font-size: 70px;
+    color: #000000;
+}
+
+.ftco-services .services .media-body {
+    width: 100%;
+}
+
+.ftco-services .services .media-body h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.ftco-services .services .media-body span {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+#myModal {
+    background: #ffffff1f !important;
+}
+
+#myModal .modal-dialog {
+    border-radius: 3.25rem !important;
+}
+
+.modal-header {
+    border-bottom: none!important;
+}
+
+.modal-content {
+    /*background: linear-gradient(360deg, red, transparent);*/
+    background-color: transparent!important;
+    border:none!important;
+    cursor: pointer!important;
+    background-repeat: no-repeat!important;
+}
+

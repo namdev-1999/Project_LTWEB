@@ -1,0 +1,92 @@
+
+.review_form_field .input__box {
+    margin: 0 0 29px;
+}
+
+.review_form_field .input__box span {
+    color: #333;
+    display: inline-block;
+    font-weight: 500;
+    margin: 0 0 8px;
+}
+
+.review_form_field .input__box span::after {
+    color: #e02b27;
+    content: "*";
+    font-size: 1.2rem;
+    margin: 0 0 0 5px;
+}
+
+.review_form_field .input__box input {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ebebeb;
+    border-radius: 1px;
+    box-sizing: border-box;
+    font-size: 14px;
+    height: 40px;
+    line-height: 1.42857;
+    outline: medium none;
+    padding: 0 9px;
+    width: 100%;
+}
+
+.review_form_field .input__box textarea {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ebebeb;
+    border-radius: 1px;
+    box-sizing: border-box;
+    font-size: 14px;
+    height: 40px;
+    line-height: 1.42857;
+    outline: medium none;
+    padding: 0 9px;
+    width: 100%;
+    min-height: 100px;
+}
+
+.review_form_field .review-form-actions button {
+    background: #f2f2f2 none repeat scroll 0 0;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+    color: #333;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 38px;
+    padding: 0 18px;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+
+.review_form_field .review-form-actions button:hover {
+    background: #e2e2e2 none repeat scroll 0 0;
+    border: 1px solid #cdcdcd;
+    color: #555;
+}
+
+.change {
+    display: flex;
+    float: right;
+    margin-right: -130px;
+    margin-top: 10px;
+}
+
+.change p {
+    text-decoration: underline;
+}
+
+.change p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.input__subbox {
+    display: flex;
+}
+
+.input__subbox .change {
+    margin-left: 15px;
+}
+.input__subbox .change a {
+    text-decoration: underline;
+}

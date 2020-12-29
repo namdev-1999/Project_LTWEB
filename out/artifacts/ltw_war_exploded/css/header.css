@@ -1,0 +1,7 @@
+.dropdown-menu a:hover{
+    background-color: white;
+    color: red;
+}
+.nav-item .nav-link{
+    padding: 0px!important;
+}

@@ -1,0 +1,143 @@
+.table .thead-primary {
+    background: #414141;
+}
+
+.table tbody tr td.product-remove a {
+    background: unset;
+}
+
+.table tbody tr td.product-remove a:hover {
+    background: unset;
+    border: unset;
+}
+
+.table tbody tr td.product-remove a:hover span {
+    background: #525252;
+}
+
+span.page-title a {
+    font-size: 14px;
+}
+
+
+.tiki-number-input {
+    margin: auto;
+}
+
+.input-group {
+    display: table;
+    border-collapse: separate;
+    position: relative;
+}
+
+.bootstrap-touchspin .input-group-btn {
+    position: relative;
+    white-space: nowrap;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.bootstrap-touchspin .input-group-btn .bootstrap-touchspin-down {
+    border-radius: 4px 0 0 4px;
+    border: 1px solid #dfdfdf;
+    background: #fff;
+    padding: 0 10px;
+}
+
+.bootstrap-touchspin .input-group-btn > .btn {
+    display: block;
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    line-height: 15px;
+    font-size: 14px;
+    font-weight: 300;
+    height: 28px;
+    position: relative;
+}
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.bootstrap-touchspin [name=qty] {
+    display: block;
+    border: 0;
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    height: 28px;
+    padding: 0;
+    width: 28px;
+    text-align: center;
+}
+
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.bootstrap-touchspin .input-group-btn {
+    position: relative;
+    white-space: nowrap;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.bootstrap-touchspin .input-group-btn .bootstrap-touchspin-up {
+    border-radius: 0 4px 4px 0;
+    border: 1px solid #dfdfdf;
+    background: #fff;
+    padding: 0 10px;
+}
+
+.bootstrap-touchspin .input-group-btn > .btn {
+    display: block;
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    line-height: 15px;
+    font-size: 14px;
+    font-weight: 300;
+    height: 28px;
+    position: relative;
+}
+
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+    z-index: 2;
+    margin-left: -1px;
+}

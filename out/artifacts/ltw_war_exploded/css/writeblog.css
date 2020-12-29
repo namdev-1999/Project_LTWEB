@@ -1,0 +1,35 @@
+.section-padding-80 label {
+    width: 10%;
+    color: #fc8a37;
+    font-size: 18px;
+    text-align: right;
+}
+
+.section-padding-80 input {
+    width: 74%;
+}
+
+.section-padding-80 button {
+    background: -webkit-gradient(linear, left top, left bottom, from(#f57b54), to(#ff7043));
+    border: unset;
+    max-width: 100%;
+    color: white;
+}
+
+.section-padding-80 button:hover {
+    background: -webkit-gradient(linear, left top, left bottom, from(#fd934d), to(#f9760b));
+    color: white;
+}
+
+.section-padding-80 .form {
+    margin-top: 5px;
+}
+
+#cke_1_contents {
+    min-height: 500px;
+}
+
+#form {
+    max-width: 96.5%;
+    margin-left: -8px;
+}

@@ -1,0 +1,34 @@
+.review-field-rating input[type="radio"]:checked + label:hover {
+     background: none;
+}
+review-field-rating. input[type="radio"]:checked + label {
+     background-color: unset;
+     color: white;
+     border-color: unset;
+}
+.review-field-rating input[type="radio"] + label:hover {
+     background: none;
+     border-color: unset;
+}
+.review-field-rating input[type="radio"] + label:last-of-type {
+     border-top-right-radius: 0px;
+     border-bottom-right-radius: 0px;
+}
+.review-field-rating input[type="radio"] + label:first-of-type {
+     border-top-left-radius: 0px;
+     border-bottom-left-radius: 0px;
+}
+.review-field-rating input[type="radio"] + label {
+     padding: 0;
+     margin-right: 0;
+     margin-left: 0;
+     background-color: unset;
+     border: unset;
+}
+.maincontent .container-fluid{
+     width: 100%;
+     padding-right: 130px;
+     padding-left: 130px;
+     margin-right: auto;
+     margin-left: auto;
+}

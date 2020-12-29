@@ -1,0 +1,13 @@
+.wn__single__product .bg-his{
+    background-color: rgba(247, 247, 247, 0.55);
+}
+
+.wn__single__product .order-content-item {
+    display: flex;
+    position: relative;
+}
+
+.wn__single__product .order-content-item-image img {
+    height: auto;
+}
+.wn__single__product .

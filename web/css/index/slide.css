@@ -1,0 +1,112 @@
+.w3-content {
+    max-width: 980px
+}
+.w3-tooltip, .w3-display-container {
+    position: relative
+}
+.w3-center {
+    text-align: center !important
+}.w3-container, .w3-panel {
+     padding: 0.01em 16px
+ }
+.w3-container:after, .w3-container:before, .w3-panel:after, .w3-panel:before, .w3-row:after, .w3-row:before, .w3-row-padding:after, .w3-row-padding:before,
+.w3-cell-row:before, .w3-cell-row:after, .w3-clear:after, .w3-clear:before, .w3-bar:before, .w3-bar:after {
+    content: "";
+    display: table;
+    clear: both
+}.w3-section, .w3-code {
+     margin-top: 16px !important;
+     margin-bottom: 16px !important
+ }
+.w3-large {
+    font-size: 18px !important
+}
+.w3-display-bottommiddle {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%)
+}
+.w3-left {
+    float: left !important
+}
+.w3-right {
+    float: right !important
+}
+.w3-text-khaki, .w3-hover-text-khaki:hover {
+    color: #b4aa50 !important
+}
+.w3-badge, .w3-tag {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center
+}
+
+.w3-badge {
+    border-radius: 50%
+}
+.demo {
+    margin: 2em auto;
+    line-height: 1.25em;
+}
+.demo ul li {
+    margin-bottom: 1em;
+}
+.demo ul li .num {
+    color: #222;
+    border-radius: 20px;
+    display: inline-block;
+    width: 26px;
+    padding: 3px;
+    height: 26px;
+    text-align: center;
+    margin-right: 0.5em;
+    border: 1px solid #222;
+}
+.demo ul li code {
+    background-color: #222;
+    border-radius: 4px;
+    padding: 0.25em 0.5em;
+    display: inline-block;
+    color: #fff;
+    font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+    font-weight: lighter;
+    margin-top: 1em;
+    font-size: 0.8em;
+    word-break: break-all;
+}
+.demo ul li code.big {
+    padding: 1em;
+    font-size: 0.9em;
+}
+.demo ul li code .red {
+    color: #EF3159;
+}
+.demo ul li code .green {
+    color: #ACFF65;
+}
+.demo ul li code .yellow {
+    color: #FFFF99;
+}
+.demo ul li code .blue {
+    color: #99D3FF;
+}
+.demo ul li code .purple {
+    color: #A295FF;
+}
+.demo ul li code .dots {
+    margin-top: 0.5em;
+    display: block;
+}.w3-border {
+     border: 1px solid #ccc !important
+ }.w3-transparent, .w3-hover-none:hover {
+      background-color: transparent !important
+  }
+.w3-white, .w3-hover-white:hover {
+    color: #000 !important;
+    background-color: #fff !important
+}
